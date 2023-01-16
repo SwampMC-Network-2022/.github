@@ -6,9 +6,11 @@ Falls wir ihr Interesse geweckt haben, dann schauen sie ruhig vorbei!
 
 Sie möchten sich bewerben? Kein Problem, wir suchen Folgendes:
 
-- Entwickler im Bereich Spigot und Waterfall
-- Architekt im Bereich Mittelalter, Modern und Zukunft
-- Content im Bereich Konzepte schreiben, Übersetzer, Modellierer (Blockbench) und Designer.
+- Developer (Java- und Webentwickler)
+- Builder im Bereich Mittelalter, Modern und Zukunft für Maps, Lobbys, Wartelobbys und mehr.
+- Content im Bereich Konzepte schreiben, Übersetzung, Modellierung (Blockbench) und Grafikdesigner.
+
+» http://apply.moonnation.eu/
 
 Internetseite: https://www.moonnation.eu/ (Discord und mehr)
 
